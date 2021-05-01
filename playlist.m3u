@@ -13,22 +13,13 @@ https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHU4eEcS40Quv-G9pUBw_y4U)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXod7vNPJKvhnS_Gug93Y-M)/dm/3/x6qp375/d/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHecopiU6uess0AfORHfym1o)/dm/3/x6qp6ou/s/live-0.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
 https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTZ_d18HbsP38bt_jNE6xU4)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV(Test-1)
-https://raw.githubusercontent.com/androidrepublica/playlist/master/8TV.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV(Test-2)
-https://androidrepublica.website/List/Dailymotion/8tv.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
-
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV(Test-3)
-http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb2ydEiV5wzdj8H7G_5Ex30)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
