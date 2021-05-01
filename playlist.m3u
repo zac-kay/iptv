@@ -21,6 +21,15 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHecopiU6uess0AfORH
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTZ_d18HbsP38bt_jNE6xU4)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV(Test-1)
+https://raw.githubusercontent.com/androidrepublica/playlist/master/8TV.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV(Test-2)
+https://androidrepublica.website/List/Dailymotion/8tv.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV(Test-3)
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb2ydEiV5wzdj8H7G_5Ex30)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
