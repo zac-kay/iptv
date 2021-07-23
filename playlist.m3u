@@ -105,13 +105,13 @@ https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1 综合
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 
-#EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/CCTV2.jpg",CCTV-2 财经
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",CCTV-3 综艺
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 
-#EXTINF:-1 tvg-id="cctv4" tvg-logo="cctv4.png",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-cctv-4.jpg",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5 体育
