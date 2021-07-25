@@ -152,3 +152,6 @@ http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",CCTV-17 农业农村
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="",Test
+http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8|Referer=https://tv.cctv.com/
