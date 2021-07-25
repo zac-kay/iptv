@@ -115,10 +115,10 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV-5 体育
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5%2B.jpg",CCTV-5+ 体育赛事
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV-6 电影
 http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
@@ -152,9 +152,3 @@ http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
 
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",CCTV-17 农业农村
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
-
-#EXTINF:-1 tvg-logo="",Test CCTV5
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
-
-#EXTINF:-1 tvg-logo="",Test CCTV5+
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=4
