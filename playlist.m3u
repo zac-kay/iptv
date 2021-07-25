@@ -115,7 +115,7 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV-5 体育
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5922040007130019836&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5%2B.jpg",CCTV-5+ 体育赛事
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=4
