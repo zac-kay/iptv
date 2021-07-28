@@ -112,7 +112,7 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV-4 中文国际
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=4
+http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV-5 体育
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5922040007130019836&livemode=1&stbId=4
