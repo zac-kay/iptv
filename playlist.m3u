@@ -121,22 +121,22 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5922040
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV-6 电影
-http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV-7 国防军事
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV-8 电视剧
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8845820895945979833&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctvjilu" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",CCTV-9 纪录
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg",CCTV-10 科教
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=9092756522938817434&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV-11 戏曲
-http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv12" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg",CCTV-12 社会与法
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
