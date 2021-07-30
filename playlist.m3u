@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-#https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-#https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+# https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+# https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102.png",TV2
-#https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
-#https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+# https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+# https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
@@ -25,8 +25,8 @@ https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb2ydEiV5wzdj8H7G_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 
-##EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
-#https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
+# #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109.png",Naura
+# https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110.png",Hello
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
@@ -80,7 +80,7 @@ https://livedoc.cgtn.com/500d/prog_index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
-#https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+# https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmlive02.secureswiftcontent.com/rtmchannel/02_720.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-logo="https://tch.spott2.sportradar.com/assets/img/Tennischannel/TC-logo-green.png",Tennis Channel
@@ -89,66 +89,79 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mX1nnGy.png",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png",Cinemax (East) (1080p)
-#https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+# #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png",Cinemax (East) (1080p)
+# https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
 
-##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png",Cinemax (West) (1080p)
-#https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+# #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cinemax_new.png/1280px-Cinemax_new.png",Cinemax (West) (1080p)
+# https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
 
-##EXTINF:-1 tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png",Epix (East) (1080p)
-#https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+# #EXTINF:-1 tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png",Epix (East) (1080p)
+# https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
 
-##EXTINF:-1 tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png",Epix 2 (East) (1080p)
-#https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+# #EXTINF:-1 tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png",Epix 2 (East) (1080p)
+# https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg",CCTV-1 综合
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=7780104586873900361&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv2.jpg",CCTV-2 财经
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
 
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv3.jpg",CCTV-3 综艺
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8378175926191110263&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv4.jpg",CCTV-4 中文国际
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5.jpg",CCTV-5 体育
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=5922040007130019836&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv5%2B.jpg",CCTV-5+ 体育赛事
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+# http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5922040007130019836&livemode=1&authCode=3a&stbId=8A3603DD004735200000049573C4E39B
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv6.jpg",CCTV-6 电影
+# http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6117099895556651277&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv7.jpg",CCTV-7 国防军事
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7
 
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg",CCTV-8 电视剧
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8845820895945979833&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctvjilu" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg",CCTV-9 纪录
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg",CCTV-10 科教
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=9092756522938817434&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv11" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg",CCTV-11 戏曲
+# http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv12" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv12.jpg",CCTV-12 社会与法
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12
 
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg",CCTV-13 新闻
-#http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
+# http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6918130250570453526&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctvchild" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV-14 少儿
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg",CCTV-15 音乐
-http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+# http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",CCTV-17 农业农村
-http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+# http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=4
