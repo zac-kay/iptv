@@ -20,7 +20,7 @@ https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXod7vNPJKvhnS_Gug
 https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHecopiU6uess0AfORHfym1o)/dm/3/x6qp6ou/s/live-0.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBFINCfg)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHR9YcP6IyfbXk80TBFINCfg)/dm/3/x6qud17/s/live-2.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb2ydEiV5wzdj8H7G_5Ex30)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
@@ -174,3 +174,27 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg",CCTV-17 农业农村
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=4
 # http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17
+
+#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="HBO" group-title="ASTRO",HBO
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV test1
+https://mediahomes.github.io/assets/my/ch_8tv.m3u8|Referer=https://www.dailymotion.com
+
+#EXTINF:-1 group-title="Chinese Variety" tvg-id="108" tvg-chno="108" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708074041526yld.png",8TV test2
+http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd
+
+#EXTINF:-1 tvg-id="108" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV test3
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+
+#EXTINF:-1 group-title="International Variety" tvg-id="Blue Ant Entertainment HD" tvg-chno="473" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/201907160638240897f5.png",473 Blue Ant Entertainment
+http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd
+
+#EXTINF:-1 group-title="International Variety" tvg-id="Blue Ant Extreme HD" tvg-chno="474" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073944056u4a.png",474 Blue Ant Extreme
+http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd
+
+#EXTINF:-1 tvg-id="And flix HD" tvg-name="&FLIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png" group-title="MOVIES",&FLIX HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="And Prive HD" tvg-name="PRIVE HD" tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="MOVIES",PRIVE HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
