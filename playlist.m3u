@@ -167,7 +167,8 @@ http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=6918130
 # http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13
 
 #EXTINF:-1 tvg-id="cctv14" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv14.jpg",CCTV-14 少儿
-http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
+https://cctvkshwh5c.v.kcdnvip.com/live/cdrmcctvchild_1/index.m3u8?BR=hd&region=beijing
+# http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=4
 # http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14
 
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg",CCTV-15 音乐
