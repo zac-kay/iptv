@@ -4,12 +4,14 @@
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
+#https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8|Referer=https://rtmklik.rtm.gov.my/
 # https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 # https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102.png",TV2
-https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://rtmklik.rtm.gov.my/
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=2|Referer=https://rtmklik.rtm.gov.my/
+#https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2164000.m3u8|Referer=https://rtmklik.rtm.gov.my/
 # https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 # https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
