@@ -16,19 +16,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=
 # https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
+https://stream-04.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXTLKqCc2Jxt2vYynN3indlGLX2CUEbFSTrLHAnbzl1dT3VhK9rWnZWfmJGFlbO5IzA)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 # http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-https://stream-03.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXRiBbvIpxhaZ6N3n7EQ8dWWePDE3BzxSaozLjVet-KPUnIIheIRt0EzCCg6X_NyyWA)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
+https://stream-12.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHck_v_YnjPU5sq7on65rJCc3mgv1AVh9uQI6aTR8H6is)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 # http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHd-IKKCpVONgys_p2VS50hzMOyEdt4st1932WJe-U7Wz)/dm/3/x6qp6ou/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
-https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHYI9FBut8pSaZdzo6ks8avkKMSMMt5AfmEY43iRuHI1a)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHaqPMROItU_JbU87xKeAvgLXBjZTTAAGvn8CqQwxNzR5)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+https://stream-03.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXiuV45OoTf_Av1cRXRyMuJRIw5kAEl-ug_ZVwiJQJl-)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 # http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVfkUl50I1MO3C3W9QFGbbsInUBZUA7vNJF7em_4Vvtp)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://rtmlive03.secureswiftcontent.com/rtmchannel/03_720.m3u8|Referer=https://rtmklik.rtm.gov.my/
