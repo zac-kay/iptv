@@ -16,7 +16,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2496000_slENG.m3u8?id=
 # https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png",TV3
-https://stream-04.ix7.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXTLKqCc2Jxt2vYynN3indlGLX2CUEbFSTrLHAnbzl1dT3VhK9rWnZWfmJGFlbO5IzA)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+https://stream-01.sg1.dailymotion.com/sec(Zqc0ZDcpMSy05peWWXyuXdaE-bHw5RJUPKM3cbBBvJCkMPgPdR1Dk8_MFsbnXXwaYdty0qOIL0vwNXPvePogMg)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 # http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png",NTV7
@@ -24,7 +24,7 @@ https://stream-12.dc3.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHck_v_YnjPU5sq7on6
 # http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png",8TV
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRft62FwK9rnugS3C4Jg34Jte_3Dwfm0c_GuYYApodEy)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTwoZQQHUe19WBRUQHvMlyi1GrU5Y_wT5wU09V0HuN0J)/dm/3/x6qud17/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
 https://stream-03.ix7.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHXiuV45OoTf_Av1cRXRyMuJRIw5kAEl-ug_ZVwiJQJl-)/dm/3/x6qqja6/s/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
