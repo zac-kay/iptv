@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-country="" tvg-url="" group-title="" tvg-logo="",[COLOR red][I][B]Test - Shibuya Crossing[/B][/I][/COLOR]
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="",World Cup
+http://d1bwb9hdwkouz9.cloudfront.net/scripts/NjczOQ==/1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2496000_slENG.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
 #https://rtmlive01.secureswiftcontent.com/rtmchannel/01_720.m3u8|Referer=https://rtmklik.rtm.gov.my/
